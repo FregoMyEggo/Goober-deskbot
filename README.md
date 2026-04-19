@@ -4,8 +4,9 @@
 Requires Arduino IDE with these libraries: - ESP32 Boards package by Espressif Systems and LVGL library
 
 Step 1:
-Download the entire folder titled "assets" and copy it directly to your micro SD card.
-Do not change the folder names or file structure or the project will break.
+Download the entire folder titled "assets," unzip it, and copy it directly to your micro SD card.The main folder
+must be titled 'assets' when copied to the sd card (the images inside are all .raw, which esp32 can read, but thumbnails
+won't show on your computer unless you have an image viewer capable of decoding raw images).
 
 Step 2:
 Download or extract the Goober folder anywhere you want.
