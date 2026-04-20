@@ -18,6 +18,16 @@ Step 3:
 Plug in your Waveshare ESP32-S3 1.46" display device and flash the sketch.
 Done.
 
+-----------------How to Use---------------------------------------
+
+The 'home screen' is the default screen with the main character animation.  
+ALL SWIPING MUST RETURN TO HOME SCREEN. (i.e. you can't swipe right to clock menu, then down for settings menu)
+
+-From the home screen, swipe from the right edge inward to navigate to clock screen. Hold to set time, swipe back to return home.
+     (NOTE- once clock is set, Goober will never make any sound after 8pm and before 8am)
+-From home screen, swipe from top edge down to enter settings (self explanitory. turning "keep alive" off will pause Goober's age/evolution/feeding)
+-From home screen, swipe from left edge inward to enter feed screen. tap a snack, swipe to return.
+-From home screen, swipe from bottom edge up to enter game (PONG). swipe back to return.
 
 ---------------If you want to make changes--------------------------
 
