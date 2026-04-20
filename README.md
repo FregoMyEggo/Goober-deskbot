@@ -47,4 +47,6 @@ Disclaimer: This project may include AI-generated fan-inspired artwork. It is an
 
 All code is AI slop.. sorry about that.
 
-<img width="3024" height="4032" alt="IMG_6367" src="https://github.com/user-attachments/assets/e92d8c0e-7962-4807-a1e5-c146ef607a9c" />
+<img width="3024" height="4032" alt="IMG_6328" src="https://github.com/user-attachments/assets/8422a187-987f-4d9a-a021-db2002fbcfea" />
+<img width="3024" height="4032" alt="IMG_6327" src="https://github.com/user-attachments/assets/2905e2a1-a4ca-462d-8919-578b31220476" />
+
