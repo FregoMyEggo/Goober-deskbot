@@ -1,3 +1,4 @@
+
 # Goober-deskbot
 **Tamagotchi inspired desk companion/clock. Feed it, play with it, watch it evolve. Powered by esp32**
 
@@ -44,4 +45,6 @@ One tricky detail. Each character's "feed" folder is not very intuitive. Here is
 
 Disclaimer: This project may include AI-generated fan-inspired artwork. It is an unofficial hobby project and is not affiliated with, endorsed by, or intended to depict any official copyrighted character exactly as-is.  
 
-Also, all code is AI slop.. sorry about that.
+All code is AI slop.. sorry about that.
+
+<img width="3024" height="4032" alt="IMG_6367" src="https://github.com/user-attachments/assets/e92d8c0e-7962-4807-a1e5-c146ef607a9c" />
